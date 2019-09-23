@@ -8,3 +8,4 @@ Lcd Screen - Learned to display button presses on lcd screen in CircuitPython.
 
 Photo Interrupter - Learned to detect and display interrupts on photo interrupters with CircuitPython.
 
+Distance Control - Learned to munipulate neopixel at different variables like distance in CircuitPython.
