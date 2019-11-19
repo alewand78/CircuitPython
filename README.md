@@ -15,7 +15,7 @@ I figured out how to run and control a servo in CircuitPython.
 ### Lesson Learned
 Learned to display button presses on lcd screen in CircuitPython.
 ### Wiring
-![Credit: Caden Tucker](media/servopicture.jpg)
+![Credit: Caden Tucker](https://github.com/ctucker02/CircuitPython/blob/master/media/buttonpressgif.gif)
 
 ## Photo Interrupter 
 ### Description
