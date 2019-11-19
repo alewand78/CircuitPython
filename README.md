@@ -15,7 +15,7 @@ I figured out how to run and control a servo in CircuitPython.
 ### Lesson Learned
 Learned to display button presses on lcd screen in CircuitPython.
 ### Wiring
-(Picture)
+![Credit: Caden Tucker](media/servopicture.jpg)
 
 ## Photo Interrupter 
 ### Description
@@ -23,7 +23,7 @@ Learned to display button presses on lcd screen in CircuitPython.
 ### Lesson Learned
 Learned to detect and display interrupts on photo interrupters with CircuitPython.
 ### Wiring
-(Picture)
+![Credit: Caden Tucker](media/servopicture.jpg)
 
 ## Distance Control 
 ### Description
@@ -31,7 +31,7 @@ Learned to detect and display interrupts on photo interrupters with CircuitPytho
 ### Lesson Learned
 Learned to munipulate neopixel at different variables like distance in CircuitPython.
 ### Wiring
-(Picture)
+![Credit: Caden Tucker](media/servopicture.jpg)
 
 ## Hello VS Code 
 ### Description
@@ -40,7 +40,7 @@ Learned to munipulate neopixel at different variables like distance in CircuitPy
 Learned the basics of VS code, how to use it.
 It is much easier to push assignments onto github through VS code.
 ### Wiring
-(Picture)
+![Credit: Caden Tucker](media/servopicture.jpg)
 
 ## FancyLED 
 ### Description
@@ -48,4 +48,4 @@ It is much easier to push assignments onto github through VS code.
 ### Lesson Learned
 Learned to control rgb light at different depths.
 ### Wiring
-(Picture)
+![Credit: Caden Tucker](media/servopicture.jpg)
