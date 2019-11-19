@@ -40,6 +40,13 @@ Learned to munipulate neopixel at different variables like distance in CircuitPy
 Learned the basics of VS code, how to use it.
 It is much easier to push assignments onto github through VS code.
 
+## Classes, Objects, and Modules 
+### Description
+ The task was to create a new library designed to make working with RGB LEDs easier. 
+### Lesson Learned
+Learned to define things using CircuitPython.
+### Wiring
+![Credit: Caden Tucker](https://github.com/ctucker02/CircuitPython/blob/master/media/ledswitchgif.gif)
 
 ## FancyLED 
 ### Description
