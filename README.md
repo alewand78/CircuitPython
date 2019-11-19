@@ -7,7 +7,7 @@ These are my Engineering 3 CircuitPython assignments and projects.
 ### Lesson Learned
 I figured out how to run and control a servo in CircuitPython.
 ### Wiring
-![Credit: Caden Tucker](media/servopicture.jpg)
+![Credit: Caden Tucker](https://raw.githubusercontent.com/ctucker02/CircuitPython/master/media/servopicture.jpg)
 
 ## Lcd Screen 
 ### Description
