@@ -40,7 +40,7 @@ Learned to munipulate neopixel at different variables like distance in CircuitPy
 Learned the basics of VS code, how to use it.
 It is much easier to push assignments onto github through VS code.
 ### Wiring
-![Credit: Caden Tucker](media/servopicture.jpg)
+![Credit: Caden Tucker](servopicture.jpg)
 
 ## FancyLED 
 ### Description
