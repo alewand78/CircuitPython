@@ -55,3 +55,14 @@ Learned to define things using CircuitPython.
 Learned to control rgb light at different depths.
 ### Wiring
 ![Credit: Caden Tucker](https://github.com/ctucker02/CircuitPython/blob/master/media/FancyLEDgif.gif)
+
+## Gears 
+### Description
+ Make four different gears using equations, variables, and configurations.
+### Lesson Learned
+Learned to use universal equations within configurations.
+### Screenshots
+![Credit: Caden Tucker](https://github.com/ctucker02/CircuitPython/blob/master/media/swgear.PNG)
+![Credit: Caden Tucker](https://github.com/ctucker02/CircuitPython/blob/master/media/swgear2.PNG)
+![Credit: Caden Tucker](https://github.com/ctucker02/CircuitPython/blob/master/media/swgear3.PNG)
+![Credit: Caden Tucker](https://github.com/ctucker02/CircuitPython/blob/master/media/swgear4.PNG)
