@@ -1,6 +1,14 @@
 # CircuitPython
 These are my Engineering 3 CircuitPython assignments and projects.
 
+## LED Fade 
+### Description
+ This assignment is the intro to the new language, the objective is to make an LED fade in and out.
+### Lesson Learned
+Learned about PWM and some basics of circuitpython.
+### Wiring
+![Credit: Caden Tucker](https://github.com/ctucker02/CircuitPython/blob/master/media/ledfadepic.png)
+
 ## Servo Control 
 ### Description
  Get a 180° micro servo to slowly sweep back and forth between 0 and 180°.
