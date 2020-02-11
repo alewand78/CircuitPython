@@ -8,6 +8,7 @@ These are my Engineering 3 CircuitPython assignments and projects.
 Learned about PWM and some basics of circuitpython.
 ### Wiring
 ![Credit: Caden Tucker](https://github.com/ctucker02/CircuitPython/blob/master/media/ledfadepic.png)
+[Credit: Caden Tucker](https://github.com/ctucker02/CircuitPython/blob/master/media/ledfadepic.png)
 
 ## Servo Control 
 ### Description
@@ -16,6 +17,7 @@ Learned about PWM and some basics of circuitpython.
 I figured out how to run and control a servo in CircuitPython.
 ### Wiring
 ![Credit: Caden Tucker](https://raw.githubusercontent.com/ctucker02/CircuitPython/master/media/servopicture.jpg)
+[Credit: Caden Tucker](https://raw.githubusercontent.com/ctucker02/CircuitPython/master/media/servopicture.jpg)
 
 ## Lcd Screen 
 ### Description
@@ -24,6 +26,7 @@ I figured out how to run and control a servo in CircuitPython.
 Learned to display button presses on lcd screen in CircuitPython.
 ### Wiring
 ![Credit: Caden Tucker](https://github.com/ctucker02/CircuitPython/blob/master/media/buttonpressgif.gif)
+[Credit: Caden Tucker](https://github.com/ctucker02/CircuitPython/blob/master/media/buttonpressgif.gif)
 
 ## Photo Interrupter 
 ### Description
@@ -32,6 +35,8 @@ Learned to display button presses on lcd screen in CircuitPython.
 Learned to detect and display interrupts on photo interrupters with CircuitPython.
 ### Wiring
 ![Credit: Caden Tucker](https://github.com/ctucker02/CircuitPython/blob/master/media/photointerruptergif.gif)
+[Credit: Caden Tucker](https://github.com/ctucker02/CircuitPython/blob/master/media/photointerruptergif.gif)
+
 
 ## Distance Control 
 ### Description
@@ -40,6 +45,7 @@ Learned to detect and display interrupts on photo interrupters with CircuitPytho
 Learned to munipulate neopixel at different variables like distance in CircuitPython.
 ### Wiring
 ![Credit: Caden Tucker](https://github.com/ctucker02/CircuitPython/blob/master/media/distancesensor2.gif)
+[Credit: Caden Tucker](https://github.com/ctucker02/CircuitPython/blob/master/media/distancesensor2.gif)
 
 ## Hello VS Code 
 ### Description
@@ -54,6 +60,7 @@ It is much easier to push assignments onto github through VS code.
 ### Lesson Learned
 Learned to define things using CircuitPython.
 ### Wiring
+![Credit: Caden Tucker](https://github.com/ctucker02/CircuitPython/blob/master/media/ledswitchgif.gif)
 [Credit: Caden Tucker](https://github.com/ctucker02/CircuitPython/blob/master/media/ledswitchgif.gif)
 
 ## FancyLED 
@@ -63,6 +70,7 @@ Learned to define things using CircuitPython.
 Learned to control rgb light at different depths.
 ### Wiring
 ![Credit: Caden Tucker](https://github.com/ctucker02/CircuitPython/blob/master/media/FancyLEDgif.gif)
+[Credit: Caden Tucker](https://github.com/ctucker02/CircuitPython/blob/master/media/FancyLEDgif.gif)
 
 ## Gears 
 ### Description
@@ -71,6 +79,10 @@ Learned to control rgb light at different depths.
 Learned to use universal equations within configurations.
 ### Screenshots
 ![Credit: Caden Tucker](https://github.com/ctucker02/CircuitPython/blob/master/media/swgear.PNG)
+[Credit: Caden Tucker](https://github.com/ctucker02/CircuitPython/blob/master/media/swgear.PNG)
 ![Credit: Caden Tucker](https://github.com/ctucker02/CircuitPython/blob/master/media/swgear2.PNG)
+[Credit: Caden Tucker](https://github.com/ctucker02/CircuitPython/blob/master/media/swgear2.PNG)
 ![Credit: Caden Tucker](https://github.com/ctucker02/CircuitPython/blob/master/media/swgear3.PNG)
+[Credit: Caden Tucker](https://github.com/ctucker02/CircuitPython/blob/master/media/swgear3.PNG)
 ![Credit: Caden Tucker](https://github.com/ctucker02/CircuitPython/blob/master/media/swgear4.PNG)
+[Credit: Caden Tucker](https://github.com/ctucker02/CircuitPython/blob/master/media/swgear4.PNG)
