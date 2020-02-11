@@ -54,7 +54,7 @@ It is much easier to push assignments onto github through VS code.
 ### Lesson Learned
 Learned to define things using CircuitPython.
 ### Wiring
-![Credit: Caden Tucker](https://github.com/ctucker02/CircuitPython/blob/master/media/ledswitchgif.gif)
+[Credit: Caden Tucker](https://github.com/ctucker02/CircuitPython/blob/master/media/ledswitchgif.gif)
 
 ## FancyLED 
 ### Description
